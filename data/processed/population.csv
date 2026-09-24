@@ -1,0 +1,11 @@
+area_code,area_name,geography,population
+E92000001,England,Country,56550138
+E12000001,North East,Region,2680763
+E12000002,North West,Region,7367456
+E12000003,Yorkshire and The Humber,Region,5526350
+E12000004,East Midlands,Region,4865583
+E12000005,West Midlands,Region,5961929
+E12000006,East of England,Region,6269161
+E12000007,London,Region,9002488
+E12000008,South East,Region,9217265
+E12000009,South West,Region,5659143
